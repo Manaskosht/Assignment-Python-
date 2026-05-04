@@ -1,4 +1,4 @@
-value = True
-print(f"value : {value}")
-reesult = int(value)
-print(f"Result : {reesult}")
+val = True
+print(f"value : {val}")
+result = int(val)
+print(f"Result : {result}")
