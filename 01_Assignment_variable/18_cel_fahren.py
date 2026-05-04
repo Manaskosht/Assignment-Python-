@@ -1,4 +1,4 @@
 celsius = 20
 print(f"celsius = {celsius}")
 fahrenheit = (celsius * 9/5) + 32
-print(f"fahrenheit = {fahrenheit}")
+print(f"fahrenheit = {int(fahrenheit)}")
