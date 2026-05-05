@@ -4,7 +4,7 @@ print(f"cost_price : {cost_price}")
 print(f"selling_price : {selling_price}")
 
 percentage = ((selling_price - cost_price) / cost_price) * 100
-print(f"Profit percentage : {percentage}%")
+print(f"Profit loss percentage : {percentage}%")
 if selling_price > cost_price:
     print("Profit")
 else:
