@@ -1,4 +1,5 @@
 #Difference of cubes: x³ - y³ 
+
 x = 4 
 y = 1 
 print (f"Expression: x³ - y³")

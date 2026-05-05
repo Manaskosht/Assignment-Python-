@@ -1,4 +1,5 @@
-#string operations
+#32. String operations and formatting
+
 Name = "Dev" 
 Age = 25 
 City = "Jaipur" 

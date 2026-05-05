@@ -1,3 +1,5 @@
+#21. Calculate area of a triangle
+
 Base = 10
 Height = 6
 print(f"Base : {Base}")

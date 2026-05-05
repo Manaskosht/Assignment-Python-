@@ -1,3 +1,5 @@
+#06. Increase shopping cart items by 3
+
 Before_cart_items = 5
 Increase_cart_items = 3
 print(f"Before_cart_items : {Before_cart_items}")

@@ -1,3 +1,5 @@
+#34. Take user input for movie details and print them
+
 Movie_Name = input("Enter your favorite movie name: ")
 Viewer_name = input("Enter your name: ")
 Seat_Number = input("Enter your seat number: ")

@@ -1,3 +1,5 @@
+#26. Calculate square sum of two numbers
+
 x = 5
 y = 7
 print(f"x : {x}")

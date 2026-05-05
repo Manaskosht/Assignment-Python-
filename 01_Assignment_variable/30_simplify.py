@@ -1,4 +1,5 @@
 #Simplify: (x - y)² 
+
 x = 10
 y = 6
 print (f"Expression: (x - y)²")

@@ -1,3 +1,5 @@
+#11. Calculate profit or loss percentage
+
 cost_price = 500
 selling_price = 600
 print(f"cost_price : {cost_price}")

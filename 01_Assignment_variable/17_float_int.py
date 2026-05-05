@@ -1,3 +1,5 @@
+#17. Convert float to integer
+
 num = 45.67
 print(num)
 print(type(num))

@@ -1,4 +1,5 @@
 #Sum of cubes: a³ + b³ 
+
 a = 1 
 b = 2 
 print (f"Expression: a³ + b³")

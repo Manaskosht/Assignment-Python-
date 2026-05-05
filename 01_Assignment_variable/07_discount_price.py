@@ -1,3 +1,5 @@
+#07. Apply a 20% discount to a price
+
 Before_price = 1000
 Discount = 20
 print(f"Before_price : {Before_price}")

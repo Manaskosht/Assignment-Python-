@@ -1,3 +1,5 @@
+#03. Switch one string value with one integer value
+
 n1 = 200
 char2 = "java"
 print(f"Before swap n1 : {n1}")

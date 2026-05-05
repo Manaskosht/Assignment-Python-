@@ -1,3 +1,5 @@
+#10. Calculate average of 3 numbers
+
 num1 = 25
 num2 = 35
 num3 = 45

@@ -1,3 +1,5 @@
+#02. Switch values of two strings (characters)
+
 char1 = "hello"
 char2 = "java"
 print(f"Before swap cahr1 : {char1}")

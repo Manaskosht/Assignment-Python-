@@ -1,3 +1,5 @@
+#04. Update balance after deposit
+
 current_balance = 10000
 deposit_balance = 5000
 print(f"current_balance : {current_balance}")
